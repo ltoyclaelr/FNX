@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>FNX Portal</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body id="top">
+  <header>
+    <div class="logo">FNX</div>
+    <nav>
+  <a href="#top">Home</a>
+  <a href="#modtools">Mod Tools</a>
+  <a href="#">Shop</a>
+  <a href="#modmenus">Mod Menus</a>
+  <a href="#">Discord</a>
+</nav>
+  </header>
+
+  <section class="hero">
+    <h1>Welcome to FNX</h1>
+    <p>Custom PS3 Tools • Stealth Utilities • Theme Mods</p>
+    <a class="btn" href="blackout.html">FNX Blackout</a>
+  </section>
+
+  <section class="products" id="modtools">
+    <h2>Popular Tools</h2>
+    <div class="card-grid">
+      <div class="card">
+        <h3>FNX Blackout</h3>
+        <p>FNX Stealth launcher.</p>
+        <a href="#">Download</a>
+      </div>
+      <div class="card">
+        <h3>FNX USB Auto Setup</h3>
+        <p>Down for maintenance.</p>
+        <a href="#">Download</a>
+      </div>
+      <div class="card">
+        <h3>FNX Theme Download</h3>
+        <p>Download the official FNX P3T Theme (.rar format).</p>
+        <a href="themes/fnx_theme.rar" download>Download</a>
+      </div>
+    </div>
+  </section>
+  
+
+
+<section class="products">
+  <h2>Mod Tools</h2>
+  <div class="card-grid">
+
+    <div class="card">
+      <h3>Multiman (Latest)</h3>
+      <p>Powerful PS3 file manager and backup loader.</p>
+      <a href="modtools/multiman/multiman.pkg" download>Download</a>
+    </div>
+
+    <div class="card">
+      <h3>WebMAN MOD (Latest)</h3>
+      <p>Web-based backup manager for Cobra-compatible firmware.</p>
+      <a href="modtools/webman/webman.pkg" download>Download</a>
+    </div>
+
+    <div class="card">
+      <h3>REBUG CFW</h3>
+      <p>Custom firmware with REX/DEX features for advanced modding.</p>
+      <a href="https://mega.nz/folder/EE10GCyC#Tis8Xz4C_YQr7b3lopXLcQ" target="_blank">Download</a>
+    </div>
+
+    <div class="card">
+      <h3>Evilnat CFW</h3>
+      <p>Latest 4.89/4.90 CEX CFW by Evilnat with Cobra integration.</p>
+      <a href="https://www.mediafire.com/folder/vrcplp1wxc141" target="_blank">Download</a>
+    </div>
+
+  </div>
+</section>
+
+
+  <section class="products" id="modmenus">
+    <h2>Mod Menus</h2>
+    <div class='card-grid'>
+        
+      <div class='card'>
+        <h3>Call Of Duty: Mw3</h3>
+        <p>View all mod menus for Call Of Duty Mw3.</p>
+        <a href='modmenus/Call of Duty MW3/index.html'>Browse Menus</a>
+      </div>
+      <div class='card'>
+        <h3>Call of Duty: Black Ops</h3>
+        <p>View all mod menus for Call of Duty: Black Ops.</p>
+        <a href='modmenus/blackops/index.html'>Browse Menus</a>
+      </div>
+      <div class='card'>
+        <h3>Call of Duty: MW2</h3>
+        <p>View all mod menus for Call of Duty: MW2.</p>
+        <a href='modmenus/mw2/index.html'>Browse Menus</a>
+      </div>
+    </div>
+</section>
+
+  <footer>
+    <p>© 2025 FNX Tools • All rights reserved</p>
+  </footer>
+</body>
+</html>
